@@ -1,4 +1,4 @@
-# This repository contains the progress of a current project, I cannot show the original repository for privacy reasons, but I will be updating it as more progress is made.
+## This repository contains the progress of a current project, I cannot show the original repository for privacy reasons, but I will be updating it as more progress is made.
 
 
 # Vue 3 + TypeScript + Vite
